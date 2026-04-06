@@ -1,0 +1,39 @@
+{
+	"menu-list": [
+		{
+      		"label": "Accueil",
+			"url": "index.html",
+    	  	"title": "Accueil - Atelier codage"
+    	},
+		{
+			"label": "L'atelier",
+			"url": "pages/atelier.html",
+			"title": "L'atelier - Atelier codage"
+		},
+		{
+			"label": "Programme 4e",
+			"url": "pages/programme-4eme.html",
+			"title": "En 4e - Atelier codage"
+		},
+		{
+			"label": "Programme 3e",
+			"url": "pages/programme-3eme.html",
+			"title": "En 3e - Atelier codage"
+		},
+		{
+			"label": "Projets",
+			"url": "pages/projets.html",
+			"title": "Les projets - Atelier codage"
+		},
+		{
+			"label": "Infos pratiques",
+			"url": "pages/infos-pratiques.html",
+			"title": "Infos pratiques - Atelier codage"
+		},
+		{
+			"label": "FAQ",
+			"url": "pages/faq.html",
+			"title": "Foire aux questions - Atelier codage"
+		}
+	]
+}

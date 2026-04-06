@@ -1,12 +1,189 @@
 <!doctype html>
 <html lang="fr">
 <head>
+    <meta name="description" content="La page d'accueil du site de l'Atelier Codage du collège Alcuin">
     <meta charset="UTF-8">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <title>Accueil</title>
+
+    <link rel="shortcut icon" href="./images/logo/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="./css/style.css">
+
+    <script src="./js/menu.js" defer></script>
+    <script src="./js/script.js" defer></script>
+
+    <title></title>
 </head>
+
 <body>
-    <h1>Site en construction</h1>
+    <header class="site-header">
+        <div class="container header-inner">
+            <a href="./index.html" class="site-brand">
+                <img src="./images/logo/logo.svg" alt="Logo de l'Atelier Codage">
+                <span>Atelier codage</span>
+            </a>
+
+            <button class="menu-toggle" aria-label="Ouvrir le menu" aria-expanded="false">
+                ☰
+            </button>
+
+            <nav class="menu" aria-label="Menu principal">
+                <!-- Menu injecté par JS -->
+            </nav>
+        </div>
+        <nav class="menu"></nav>
+    </header>
+
+    <main class="site-main">
+        <section class="page-hero">
+            <div class="container">
+                <h1>Apprendre à coder, créer et comprendre le numérique</h1>
+                <p>L’Atelier codage permet aux élèves de découvrir la programmation à travers des projets concrets, du niveau débutant à des réalisations plus avancées.</p>
+
+                <div class="page-content__btn-container">
+                    <a class="button button-primary" href="pages/infos-pratiques.html">Participer à l'atelier</a>
+                    <a class="button button-secondary" href="pages/atelier.html">Découvrir l’atelier</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="section page-content">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Un atelier pour apprendre autrement</h2>
+                    <p class="section-intro">
+                        L’Atelier codage propose une approche progressive de la programmation, adaptée au
+                        niveau des élèves.
+                    </p>
+                </div>
+
+                <div class="grid grid-3">
+                    <div class="card">
+                        <h3 class="card-title">4e</h3>
+                        <p>Découverte de l’algorithmique avec des outils visuels comme Blockly.</p>
+                    </div>
+
+                    <div class="card">
+                        <h3 class="card-title">3e</h3>
+                        <p>Approfondissement avec du code réel : HTML, CSS et Python.</p>
+                    </div>
+
+                    <div class="card">
+                        <h3 class="card-title">Projets</h3>
+                        <p>Réalisation de projets concrets pour apprendre en créant.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section page-content">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Pourquoi rejoindre l’atelier ?</h2>
+                </div>
+
+                <div class="grid grid-3">
+                    <div class="card">
+                        <h3 class="card-title">Créer</h3>
+                        <p>Apprendre à produire ses propres programmes et pages web.</p>
+                    </div>
+
+                    <div class="card">
+                        <h3 class="card-title">Comprendre</h3>
+                        <p>Découvrir comment fonctionnent les outils numériques du quotidien.</p>
+                    </div>
+
+                    <div class="card">
+                        <h3 class="card-title">Réfléchir</h3>
+                        <p>Développer sa logique et sa capacité à résoudre des problèmes.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section page-content">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Accès rapides</h2>
+                </div>
+
+                <div class="grid grid-3">
+                    <a class="card card-link" href="pages/programme-4eme.html">
+                        <h3 class="card-title">Programme 4e</h3>
+                        <p>Découvrir les bases de l’algorithmique.</p>
+                    </a>
+
+                    <a class="card card-link" href="pages/programme-3eme.html">
+                        <h3 class="card-title">Programme 3e</h3>
+                        <p>Approfondir avec du code et des projets.</p>
+                    </a>
+
+                    <a class="card card-link" href="pages/projets.html">
+                        <h3 class="card-title">Projets</h3>
+                        <p>Voir des exemples de réalisations d’élèves.</p>
+                    </a>
+
+                    <a class="card card-link" href="pages/infos-pratiques.html">
+                        <h3 class="card-title">Infos pratiques</h3>
+                        <p>Organisation et modalités de participation.</p>
+                    </a>
+
+                    <a class="card card-link" href="pages/faq.html">
+                        <h3 class="card-title">FAQ</h3>
+                        <p>Réponses aux questions fréquentes.</p>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section class="section page-content">
+            <div class="container">
+                <div class="info-box">
+                    <h2 class="section-title">Candidater à l’atelier</h2>
+                    <p>Pour participer à l’Atelier codage, il suffit de télécharger le document de candidature et de suivre les instructions indiquées.</p>
+
+                    <div class="page-content__btn-container">
+                        <a class="button button-primary" href="./documents/candidature.pdf" download>
+                            Candidater pour la 4e
+                        </a>
+                        <a class="button button-primary" href="./documents/candidature.pdf" download>
+                            Candidater pour la 3e
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section page-content">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Exemples de projets</h2>
+                </div>
+
+                <div class="grid grid-3">
+                    <div class="card">
+                        <h3 class="card-title">Quiz Python</h3>
+                        <p>Un programme interactif pour tester ses connaissances.</p>
+                    </div>
+
+                    <div class="card">
+                        <h3 class="card-title">Mini-site web</h3>
+                        <p>Création d’une page HTML/CSS personnalisée.</p>
+                    </div>
+
+                    <div class="card">
+                        <h3 class="card-title">Défis Blockly</h3>
+                        <p>Résolution de problèmes logiques avec programmation visuelle.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>Atelier codage — Collège Alcuin</p>
+        </div>
+    </footer>
 </body>
 </html>

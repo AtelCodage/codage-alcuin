@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="804.88666" height="860.55475" viewBox="0 0 804.88666 860.55475" role="img" aria-label="Logo Atelier Codage (clair, bleu, sans texte)" version="1.1" id="svg23" sodipodi:docname="logo-atelier.svg" inkscape:version="1.4 (86a8ad7, 2024-10-11)" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview id="namedview23" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="0.4165" inkscape:cx="48.019208" inkscape:cy="150.06002" inkscape:window-width="1920" inkscape:window-height="1051" inkscape:window-x="1791" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="svg23"/>
+  <defs id="defs3">
+    <!-- Light background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F8FBFF" id="stop1"/>
+      <stop offset="1" stop-color="#EEF4FF" id="stop2"/>
+    </linearGradient>
+    <!-- Subtle blueprint grid -->
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M50 0H0V50" fill="none" stroke="#1246B8" stroke-width="2" opacity="0.06" id="path2"/>
+    </pattern>
+    <!-- Soft noise dots -->
+    <pattern id="dots" width="70" height="70" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="18" r="2" fill="#0B2A6B" opacity="0.04" id="circle2"/>
+      <circle cx="52" cy="44" r="2" fill="#1246B8" opacity="0.03" id="circle3"/>
+    </pattern>
+    <!-- Mask to clip content into a hexagon (tech frame) -->
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath23">
+      <path d="M 500,120 790,290 V 710 L 500,880 210,710 V 290 Z" id="path23"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath24">
+      <path d="M 500,120 790,290 V 710 L 500,880 210,710 V 290 Z" id="path24"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath26">
+      <path d="M 500,120 790,290 V 710 L 500,880 210,710 V 290 Z" id="path27"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath27">
+      <path d="M 500,120 790,290 V 710 L 500,880 210,710 V 290 Z" id="path28"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath28">
+      <path d="M 500,120 790,290 V 710 L 500,880 210,710 V 290 Z" id="path29"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath29">
+      <path d="M 500,120 790,290 V 710 L 500,880 210,710 V 290 Z" id="path30"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath30">
+      <path d="M 500,120 790,290 V 710 L 500,880 210,710 V 290 Z" id="path31"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath31">
+      <path d="M 500,120 790,290 V 710 L 500,880 210,710 V 290 Z" id="path32"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath32">
+      <path d="M 500,120 790,290 V 710 L 500,880 210,710 V 290 Z" id="path33"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath33">
+      <path d="M 500,120 790,290 V 710 L 500,880 210,710 V 290 Z" id="path34"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath32-0">
+      <path d="M 500,120 790,290 V 710 L 500,880 210,710 V 290 Z" id="path33-9"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath33-8">
+      <path d="M 500,120 790,290 V 710 L 500,880 210,710 V 290 Z" id="path34-8"/>
+    </clipPath>
+  </defs>
+  <path d="M 402.44332,16.056925 788.82955,201.36607 V 659.18869 L 402.44332,844.49785 16.0571,659.18869 V 201.36607 Z" fill="#ffffff" stroke="#0b2a6b" stroke-width="14" stroke-linejoin="round" id="path5-0" style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:32.1142;stroke-dasharray:none;stroke-opacity:1"/>
+  <!-- Background -->
+  <!-- Hex tech frame (no square/circle) -->
+  <path d="M 402.44334,51.001637 756.23301,220.67762 v 419.1995 L 402.44334,809.55311 48.653668,639.87712 v -419.1995 z" fill="#ffffff" stroke="#0b2a6b" stroke-width="14" stroke-linejoin="round" id="path5" style="fill:#ffffff;fill-opacity:1;stroke-width:29.405;stroke-dasharray:none"/>
+  <!-- Inner hex accent line -->
+  <path d="M 402.44335,108.61363 704.4014,247.84122 V 612.71353 L 402.44335,751.94112 100.48528,612.71353 V 247.84122 Z" fill="none" stroke="#1246b8" stroke-width="10" stroke-linejoin="round" opacity="0.25" id="path6" style="stroke-width:20.2033;stroke-dasharray:none;stroke:#0928d5;stroke-opacity:1;opacity:0.4"/>
+  <!-- Content clipped inside hex -->
+  <path d="m 240,340 h 125 l 67.92944,59.44076" stroke="#0b2a6b" id="path7" style="fill:none;stroke-width:29.4047;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" clip-path="url(#clipPath29)" transform="matrix(0.80153046,0,0,1.0424912,-6.3471787,-146.46318)" sodipodi:nodetypes="ccc"/>
+  <path d="m 760,380 h -84.25435 l -54.34756,40.76567" stroke="#1246b8" id="path8" style="fill:none;stroke-width:29.4047;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" clip-path="url(#clipPath28)" transform="matrix(0.96307101,0,0,1,-169.53253,-190.75419)" sodipodi:nodetypes="ccc"/>
+  <path d="M 274.23355,716.30521 403.20906,667.16377" stroke="#1246b8" id="path9" style="fill:none;stroke-width:29.4047;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" clip-path="url(#clipPath27)" sodipodi:nodetypes="cc" transform="translate(-35.374841,-50.9304)"/>
+  <path d="M 761.57094,721.29937 590,618.20906" stroke="#0b2a6b" id="path10" style="fill:none;stroke-width:29.4047;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" clip-path="url(#clipPath26)" transform="matrix(0.86101647,0,0,0.78391536,-54.397515,97.935451)" sodipodi:nodetypes="cc"/>
+  <circle cx="240" cy="340" r="14" fill="#0b2a6b" id="circle10" clip-path="url(#clipPath33)" transform="matrix(1.7857143,0,0,1.7857143,-240.28844,-397.89618)" style="stroke-width:4.004;stroke-dasharray:none"/>
+  <circle cx="240" cy="340" r="14" fill="#0b2a6b" id="circle10-2" clip-path="url(#clipPath33-8)" transform="matrix(1.7857143,0,0,1.7857143,171.72353,54.64424)" style="stroke-width:4.004;stroke-dasharray:none"/>
+  <circle cx="760" cy="380" r="14" fill="#1246b8" id="circle11" clip-path="url(#clipPath32)" transform="matrix(-1.7857143,0,0,1.7857143,1932.5443,-489.32562)" style="stroke-width:1000.99;stroke-dasharray:none"/>
+  <circle cx="760" cy="380" r="14" fill="#1246b8" id="circle11-4" clip-path="url(#clipPath32-0)" transform="matrix(1.7857143,0,0,1.7857143,-1130.6785,-6.2441088)" style="stroke-width:4.004;stroke-dasharray:none"/>
+  <g fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" id="g15" clip-path="url(#clipPath24)" transform="translate(-97.556662,-69.722633)">
+    <path d="M 400,390 285,500 400,610" stroke="#0b2a6b" id="path13"/>
+    <path d="M 510,370 465,630" stroke="#1246b8" id="path14"/>
+    <path d="M 600,390 715,500 600,610" stroke="#0b2a6b" id="path15"/>
+  </g>
+  <!-- Small frame notches (tech details) -->
+</svg>
